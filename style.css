@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita:wght@700&family=Great+Vibes&family=Lobster+Two&display=swap');
+
+body {
+    font-family: 'Amita', cursive;
+    background-color: purple;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    color: #fde68a;
+}
+
+input {
+    font-family: 'Amita', cursive;
+    display: block;
+    margin-left: 50%;
+    margin: 1.5rem auto;
+    padding: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+label {
+    font-size: larger;
+    color: #99f6e4;
+    display: block;
+    padding-top: 3rem;
+}
+
+button {
+    font-family: 'Amita', cursive;
+    padding: 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-size: medium;
+    background: transparent;
+    color: #99f6e4;
+    border-color: #99f6e4;
+}
+
+#output {
+    color: #fde68a;
+    max-width: 30%;
+    margin: 2rem auto;
+    font-size: larger;
+}
+
+.footer {
+    padding: 1rem 0rem;
+    text-align: center;
+    color: #fdba74;
+    margin-top: 15rem;
+}
+
+.footer .link {
+    color: #fdba74;
+    text-decoration: none;
+
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.footer li {
+    display: inline;
+    padding: 1rem;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.notice {
+    padding: 0.5rem;
+    border: 1px solid white;
+    border-radius: 1rem;
+    color: #06b6d4;
+    font-size: large;
+    display: inline;
+    padding: 0.5rem;
+    margin: 1rem auto;
+}
+
+img {
+    width: 200px;
+}
